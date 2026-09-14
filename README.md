@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV](https://petkaprika.github.io/rsschool-cv/cv)
