@@ -38,3 +38,9 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+## Projects
+
+* [Interactive Rating Component](https://kaprika.github.io/interactive-rating-component/pages/landing/)
+* [FAQ Accordion](https://kaprika.github.io/FAQ-accordion/pages/landing/)
+* [Intro Section With Dropdown Navigation](https://kaprika.github.io/Intro-section-with-dropdown-navigation/pages/landing/)
