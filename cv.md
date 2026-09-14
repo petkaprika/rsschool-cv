@@ -44,3 +44,10 @@ function multiply(a, b){
 * [Interactive Rating Component](https://kaprika.github.io/interactive-rating-component/pages/landing/)
 * [FAQ Accordion](https://kaprika.github.io/FAQ-accordion/pages/landing/)
 * [Intro Section With Dropdown Navigation](https://kaprika.github.io/Intro-section-with-dropdown-navigation/pages/landing/)
+
+## Education
+
+* Janka Kupala Grodno State University — *Master’s Degree in Mathematics*, 2012
+* Janka Kupala Grodno State University — *Postgraduate studies in Differential Equations, Dynamical Systems and Optimal Control*; research qualification, 2015
+* Institute for Advanced Training and Retraining of Personnel, Janka Kupala Grodno State University — *Software for Information Systems*, 2011
+* EPAM Systems Inc. — *"Java Web Application Development"* course, 2016
