@@ -1,0 +1,148 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/Roboto-VariableFont_wdth\,wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/Roboto-Italic-VariableFont_wdth\,wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: italic;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 144rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.header__photo {
+    width: 20rem;
+    height: 20rem;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.header__info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    margin-bottom: 4rem;
+}
+
+h1 {
+    font-size: 2.8rem;
+    font-weight: 300;
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+    color: #050505;
+}
+
+.header__info p {
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
+    font-weight: 300;
+}
+
+.header__text {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 1.8rem;
+    color: #FDFBFD;
+    background-color: #773C6F;
+    border-radius: 3rem;
+    padding: 0.5rem 2rem;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: antiquewhite;
+}
+
+.section__title {
+    font-size: 2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    color: #713271;
+    margin-bottom: 1rem;
+}
+
+.section__list {
+    padding-left: 2rem;
+    list-style-type: square;
+}
+
+.section__link {
+    text-decoration: none;
+    color: #B474B1;
+    transition: color 0.5s;
+}
+
+.section__link:hover {
+    color: #050505;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 4rem;
+}
+
+.section {
+    width: 50%;
+}
+
+.education__specialty {
+    font-style: italic;
+}
+
+.footer__logo {
+    width: 15rem;
+    height: auto;
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
