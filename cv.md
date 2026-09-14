@@ -21,3 +21,20 @@ I have strong communication and problem-solving skills and enjoy working as part
 * Responsive Web Design
 * JavaScript
 * Git, GitHub
+
+## Code example
+
+This code does not execute properly. Try to figure out why.
+
+```
+function multiply(a, b){
+  a * b
+}
+```
+
+*Answer:*
+```dotnetcli
+function multiply(a, b){
+  return a * b;
+}
+```
