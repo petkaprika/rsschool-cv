@@ -33,6 +33,7 @@ function multiply(a, b){
 ```
 
 *Answer:*
+
 ```dotnetcli
 function multiply(a, b){
   return a * b;
@@ -51,3 +52,7 @@ function multiply(a, b){
 * Janka Kupala Grodno State University — *Postgraduate studies in Differential Equations, Dynamical Systems and Optimal Control*; research qualification, 2015
 * Institute for Advanced Training and Retraining of Personnel, Janka Kupala Grodno State University — *Software for Information Systems*, 2011
 * EPAM Systems Inc. — *"Java Web Application Development"* course, 2016
+
+## English Language
+
+B1 — Intermediate
